@@ -1,0 +1,21 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+      - 'releases/**'
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    steps:
+    - name: Deploy to AWS
+      uses: onramper/action-deploy-aws-static-site@v1
+      with:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        domain: flavio.curella.org
+        publish_dir: ./public
