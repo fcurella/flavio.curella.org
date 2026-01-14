@@ -1,7 +1,7 @@
 #+TITLE: Flavio's posts
 #+NICK: fcurella
 #+DESCRIPTION: Flavio Curella's posts
-#+AVATAR: https://1.gravatar.com/avatar/47ad8a9e7f7e09e3a68f47a39abedc42c7f2b53355c1283ac100546b88e16f35?size=512&d=initials
+#+AVATAR: https://flavio.curella.org/assets/avatar.png
 #+LINK: https://flavio.curella.org
 #+CONTACT: https://livellosegreto.it/@fcurella
 #+FOLLOW: alephoto85 https://www.alessandroliguori.it/social.org
