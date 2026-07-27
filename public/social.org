@@ -6,6 +6,11 @@
 #+CONTACT: https://livellosegreto.it/@fcurella
 #+FOLLOW: alephoto85 https://www.alessandroliguori.it/social.org
 #+FOLLOW: emillo https://emillo.net/social.org
+#+FOLLOW: andros https://andros.dev/static/social.org
+#+FOLLOW: comacero https://comacero.eu/social.org
+#+FOLLOW: holl https://codeberg.org/holl/holl-social/raw/branch/main/social.org
+#+FOLLOW: Omar https://www.matem.unam.mx/~omar/social.org
+#+FOLLOW: SolarPrincess https://thesolarprincess.github.io/social.org
 
 * Posts
 **
